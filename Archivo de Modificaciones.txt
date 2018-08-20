@@ -3,3 +3,10 @@ proyecto colaborativo.
 
 
 Job Ramirez ( Persona 1 ) 
+
+Oscar Flores ( Persona 2 )
+
+
+El repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/JobRamirezC/tarea_colaborativo
+https://github.com/oscaralfonso17/tarea_colaborativo
